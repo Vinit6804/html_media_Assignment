@@ -1,0 +1,61 @@
+Task 1 :  Write a simple program in HTML that displays the heading “HTML Defines the content and structure of your website” on the web browser?
+
+Solution:  File Name First.html
+             
+
+
+Task 2 : Explain the purpose of comment in HTML and provide an example of how to use comments in an HTML Document?
+
+Solution:  In HTML, comments serve the purpose of providing human-readable notes or explanations within the code that are not displayed in the web browser when the webpage is rendered. Comments are ignored by web browsers and are used for documentation, clarification or for temporarily excluding certain parts of the code without actually deleting them..They are a helpful tool for web developers and designers to understand and maintain the code,as well as for collaborating with others on a project.
+
+HTML comments are enclosed within ‘<!--’ and ‘-->’ delimiters. Anything between these delimiters is treated as a comment and is not rendered by the browser.
+
+Comments are particularly Useful When you want to:
+Add notes or explanations for yourself or other developers working on the code.
+Temporarily remove or disable a section of code for testing or debugging purpose
+Document your code for future reference or maintenance
+Collaborate with others and provide context for specific parts of the document.
+
+Example of how to use comments in an HTML document: File Name Second.html
+
+
+
+Task 3: Write an HTML program that includes a heading, a paragraph of a text, a horizontal line,and a line break. Arrange this element to create a simple web page layout?
+
+Solution:  File Name third.html
+
+
+
+Task 4: Write a Short note on Tag and Element with an example?
+
+Solution:  TAG: 
+ In HTML, a”tag” is a fundamental building block used to define and structure the content of a web page.Tags are enclosed in angle brackets ‘< >’ and come in pairs: an opening tag and a closing tag. Tags are used to mark up elements on a webpage, providing instruction to web browsers on how to display and structure content.
+
+For Example:
+<p>  This is Paragraph. </p>
+In this example ‘<p>’ is the opening tag, and ‘</p>’ is the closing tag. Together, they define a Paragraph element.
+ 
+ELEMENT:
+
+AN “ELEMENT” in HTML is a combination of an opening tag, content and a closing tag. Elements represent different parts of a webpage, such as headings, paragraphs, images, links, and more . Elements are the actual content and structure that you see on a webpage when it’s rendered in a web browser.
+
+Here’s an example of HTML element:
+<p> This is a Paragraph element. </p>
+
+In this example :
+‘<p>’ is the opening tag, which signifies the start of a paragraph element.
+‘This is a Paragraph element. ’ is the content of the paragraph.
+‘</p>’ is the closing tag, which marks the end of the paragraph element.
+
+When this HTML code is rendered in a web browser, you will see the text “ This Is A Paragraph element” displayed as a paragraph on the web page. This is a basic example, but HTML elements can be much more complex and can include various attributes and nested elements to define types of content and structures on a webpage.
+
+
+
+Task 5:  What is DOCTYPE Declaration in HTML?
+
+Solution:   In HTML, a Document Type Declaration (DTD), often referred to simply as a “DOCTYPE declaration” or “DOCTYPE,” is a statement at the beginning of an HTML document that specifies the version of HTML being Used and Provides instructions to the web browser on how to interpret the document. The DOCTYPE declaration helps ensure that the browser renders the page in the intended mode, following the correct HTML specifications and rules.
+
+The general Structure of a DOCTYPE declaration looks like this:
+
+<!DOCTYPE html >
+In this example, ‘<!DOCTYPE html>’  is a DOCTYPE declaration for HTML 5, the latest version of HTML . HTML5 introduced a simplified and standardised DOCTYPE declaration that is used for all HTML5 documents
